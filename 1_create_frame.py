@@ -1,3 +1,6 @@
+# from 모듈 import 변수/함수 : 해당 모듈 내에 있는 특정 메소드나 모듈 내 정의된 변수를 가져온다.
+# import 모듈 as 이름 : 모듈을 가져오면서 이름으로 사용
+
 from tkinter import *
 
 root = Tk()
